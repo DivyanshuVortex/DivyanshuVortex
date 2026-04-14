@@ -22,38 +22,51 @@ const divyanshu = {
   philosophy: "Clean architecture, scalable design, and pragmatic engineering"
 }
 ```
-
 ---
 
-## Selected Work
+## Projects 
 
-**dsaroundrobin**
-Real-time 1v1 coding platform with synchronized editors, Docker sandboxing, Redis queues, and WebSocket-based communication.
+### dsaroundrobin
 
-**AnonBoard**
-Anonymous discussion platform with REST APIs, PostgreSQL, Prisma ORM, and secure authentication.
+Real-time 1v1 coding platform , Docker-based sandboxed execution, Redis matchmaking queues, and WebSocket communication. Built for low-latency competitive coding with isolated runtime environments.\
+Live: https://dsaroundrobin.fun \
+Repo: https://github.com/DivyanshuVortex/dsaroundrobin
 
-**BookOmedia**
-Media-sharing platform implementing RBAC, search, and containerized deployment using Docker.
+### BookOmedia
+
+Media-sharing platform with RBAC authorization, advanced search, and containerized deployment. Built using MERN stack with Docker . \
+Live: https://book-o-media.vercel.app \
+Repo: https://github.com/DivyanshuVortex/book-o-media
+
+### AnonBoard
+
+Anonymous discussion platform with secure authentication, schema validation, and REST APIs.\
+Live: https://anon-board-ebon.vercel.app  \
+Repo: https://github.com/DivyanshuVortex/anon-board
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
+
 TypeScript • JavaScript • SQL • C++
 
-**Frontend**
-React.js • Vue.js • Next.js • Tailwind CSS • HTML • CSS 
+### Frontend
 
-**Backend**
-Node.js • Express • REST APIs • WebSockets
+React • Next.js • Vue • Tailwind CSS • HTML • CSS
 
-**Database & Infra**
-PostgreSQL • MongoDB • Redis • Docker
+### Backend
 
-**Tools**
-Git • Linux • Prisma • Firebase • Zod • JWT
+Node.js • Express • REST APIs • WebSockets • Server-side Rendering
+
+### Database & Infrastructure
+
+PostgreSQL • MongoDB • Redis • Docker • Containerized Services
+
+### Tooling
+
+Git • Linux • Prisma • Firebase • Zod • JWT • Vercel
 
 ---
 
