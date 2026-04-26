@@ -30,8 +30,7 @@ const divyanshu = {
 
 Real-time 1v1 coding platform , Docker-based sandboxed execution, Redis matchmaking queues, and WebSocket communication. Built for low-latency competitive coding with isolated runtime environments.\
 Live: https://dsaroundrobin.fun \
-Repo: https://github.com/sahitya-chandra/dsaroundrobin
-
+Repo: https://github.com/sahitya-chandra/DSA-Round-Robin
 ### BookOmedia
 
 Media-sharing platform with RBAC authorization, advanced search, and containerized deployment. Built using MERN stack with Docker . \
