@@ -35,7 +35,7 @@ Repo: https://github.com/sahitya-chandra/DSA-Round-Robin
 
 Media-sharing platform with RBAC authorization, advanced search, and containerized deployment. Built using MERN stack with Docker . \
 Live: https://book-o-media.vercel.app \
-Repo: https://github.com/DivyanshuVortex/book-o-media
+Repo: https://github.com/DivyanshuVortex/BookOmedia
 
 ### AnonBoard
 
