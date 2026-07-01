@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Divyanshu+Chandra;Software+Developer;Backend+Engineering+%E2%80%A2+Systems+Design;Building+Scalable+Production+Systems" />
 
 </div>
----
+
 ## About
 
 ```ts
